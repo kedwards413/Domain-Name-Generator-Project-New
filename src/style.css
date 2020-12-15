@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background: lightblue;
+}
+#domain_name {
+  padding: 40px;
+  font-family: "Times New Roman", Times, serif;
+  background-color: white;
+}
